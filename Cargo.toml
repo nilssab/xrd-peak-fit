@@ -3,7 +3,9 @@ name = "xrd-peak-fit"
 version = "0.1.0"
 authors = ["nils sabelstrom <nilssab@gmail.com>"]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "FFT denoiser for 2D data measurements with high noise"
+readme = "README.md"
+repository = "https://github.com/nilssab/xrd-peak-fit/"
+license = "MIT"
 
 [dependencies]
